@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+//Duothan4.0-SampleQuestion
 int armstrongGet(int _num) {
     int getLastVal, i =0, finalSum = 0, tempSum = 1, userIn;
     int numberBreakDownArray[256];
